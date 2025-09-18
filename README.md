@@ -21,11 +21,11 @@ Document progress daily for consistency and accountability
 └── README.md          # This file
 
 # 🗓 Progress Tracker
-Day	Topic / Task	Status
-1	Setup repo + initial README commit	⬜
-2	Pandas refresh (load, clean, basic ops)	⬜
-3	SQL basics: SELECT, WHERE, ORDER BY	⬜
-4	Visualization refresh: histograms & boxplots	⬜
+    Day	Topic / Task	Status
+1	Setup repo + initial README commit	✅
+2	Pandas refresh (load, clean, basic ops)	✅
+3	SQL basics: SELECT, WHERE, ORDER BY	✅
+4	Visualization refresh: histograms & boxplots	✅
 5	Python function for EDA (summary stats)	⬜
 6	Statistics refresh: correlation, z-scores	⬜
 7	Mini EDA task (5–10 questions on dataset)	⬜
